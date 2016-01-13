@@ -1,0 +1,11 @@
+body{
+    background-color: #84959d;
+    color: #000000;
+}
+#tbl_product{
+    padding: 0,0,0,0;
+    font-size: large;
+}
+input{
+    font-size: large;
+}
